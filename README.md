@@ -1,7 +1,4 @@
-# Hey, i'm Front-End Developer from Uzbekistan
-
-<!--
-**gulomjonruziboev/gulomjonruziboev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Front-End Developer from Uzbekistan
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
 
