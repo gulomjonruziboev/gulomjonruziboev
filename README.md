@@ -29,7 +29,7 @@
 
 ### 📊 Repository Language Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[gulomjonruziboev]&layout=compact&theme=vision-glow&hide_border=true)
+![Top Langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=gulomjonruziboev&layout=compact&theme=vision-glow&hide_border=true)
 
 ---
 
