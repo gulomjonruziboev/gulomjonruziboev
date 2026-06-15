@@ -1,6 +1,6 @@
 # Hi there, I'm G'ulomjon! 👋
 
-### 👨‍💻 Web & App Developer | Computer Science Student
+### 👨‍💻 Web & Mobile Developer | Computer Science Student
 
 ---
 
